@@ -22,7 +22,9 @@ Final Model = Reduced Model = Single Parent + Metropolitan + Region.
 R-squared Comparison between the two models/fits:
 The Adjusted R-squared value for the Reduced Model = 0.6296
 The Adjusted R-squared value for the Full Model = 0.5688
+
 R-squared is the percentage of the response variable that is explained by a linear model. The higher the value of R-squared, the better the model fits the data.
+
 Inference: The Reduced Model explains 62.96% of the response variable accurately whereas, the Full Model explains 56.88% of the response variable accurately. 
 
 CONCLUSION:
